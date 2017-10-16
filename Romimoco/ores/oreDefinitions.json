@@ -1,0 +1,35 @@
+{
+  "OreList": [
+    {
+      "Name" : "adamantium",
+      "Color": "0xEE1717",
+      "Hardness":"3",
+      "Harvestlevel":"2"
+      
+    },
+    {
+      "Name" : "gaiasteel",
+      "Color": "0x270000",
+      "Hardness":"4",
+      "Harvestlevel":"4"
+      
+    },
+    {
+      "Name" : "gaiaspirit",
+      "Color": "0xFFFFFF",
+      "Hardness":"1",
+      "Harvestlevel":"1"
+      
+    },
+    {
+      "Name" : "elementium",
+      "Color": "0xFFFFFF",
+      "Hardness":"1",
+      "Harvestlevel":"1"
+      
+    }
+  ],
+  "GemList":[
+     
+   ]
+}
