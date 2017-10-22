@@ -4,11 +4,4 @@ Done:
 - added own loottable to dungeon chests
 - changed ALL crafting quests to retrieval quests (bug with PrimalCore crafting table sometimes not updating crafting quests).
    This should fix all non working quest issues (hopefully)
-  
-Testing:
-- new "Item stage" mod (restricting Armors to the proper material stage)
-
-ToDo:
-- add various potions to dungeon loot
-- add enchanted armor to dungeon loot
-- test loot distribution
+ 
