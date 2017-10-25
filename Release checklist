@@ -4,6 +4,11 @@
 - remove IE core mod file from ZIP
 - change name in manifest.json
 
+CLIENT:
+config, mods, orespawn, resources, saves, scripts
+SERVER:
+config, mods, orespawn, world, scripts
+
 
 Clientside only mods:
 ======================
