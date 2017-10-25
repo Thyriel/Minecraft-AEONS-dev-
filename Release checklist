@@ -1,6 +1,7 @@
 - deactivate edit mode and then save default quests
 - remove Optifine
 - remove IE core mod file from ZIP
+- change name in manifest.json
 
 
 Clientside only mods:
