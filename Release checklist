@@ -5,7 +5,7 @@
 - change name in manifest.json
 
 CLIENT:
-config, mods, orespawn, resources, saves, scripts
+config, mods, orespawn, saves, scripts
 SERVER:
 config, mods, orespawn, world, scripts
 
