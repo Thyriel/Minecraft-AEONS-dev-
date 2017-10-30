@@ -1,3 +1,4 @@
+- add patchnotes quest
 - deactivate edit mode and then save default quests
 - remove Optifine
 - copy defaultquests > savegame
@@ -7,7 +8,7 @@
 CLIENT:
 config, mods, orespawn, saves, scripts
 SERVER:
-config, mods, orespawn, world, scripts
+config, mods, orespawn, scripts, world
 
 
 Clientside only mods:
